@@ -1,0 +1,12 @@
+language: java
+os: linux
+dist: xenial
+
+jdk:
+    - openjdkll
+
+install:
+    - gradle assemble
+
+script:
+    - gradle test
