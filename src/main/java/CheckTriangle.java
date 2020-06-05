@@ -1,5 +1,3 @@
-package com.example;
-import org.apache.commons.codec.binary.Base64;
 import java.util.Arrays;
 /**
 * 範例主程式
