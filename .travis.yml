@@ -3,7 +3,7 @@ os: linux
 dist: xenial
 
 jdk:
-    - openjdkll
+    - openjdk11
 
 install:
     - gradle assemble
